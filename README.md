@@ -11,8 +11,4 @@ Edit 11:48am edited on GitHub
 
 Edit 12:04pm
 
-<<<<<<< HEAD
-Edit 12:05pm GitHub
-=======
-Edit 12:06pm computer
->>>>>>> cf67bf7 (edit @ 12.06pm)
+Start from scratch
